@@ -1,0 +1,14 @@
+.app {
+	min-height: 100vh;
+	padding: 1rem;
+}
+
+.loading-video {
+	width: 60%;
+	height: auto;
+	justify-content: center center;
+	align-items: center;
+	padding: 1rem;
+	border-radius: 1rem;
+	min-width: 0.8%;
+}
